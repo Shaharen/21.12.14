@@ -5,7 +5,7 @@ create table bigmember(
 )
 
 insert into bigmember
-values ('pbk', '1234', 'ȣ�ξƺ�')
+values ('pbk', '1234', '호두아빠')
 
 select * from bigmember
 
